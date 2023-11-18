@@ -1,0 +1,17 @@
+mode: set
+github.com/iamseki/online-orders/domain/order.go:9.58,19.2 4 1
+github.com/iamseki/online-orders/domain/order.go:21.34,22.26 1 1
+github.com/iamseki/online-orders/domain/order.go:23.14,24.49 1 1
+github.com/iamseki/online-orders/domain/order.go:28.31,29.28 1 1
+github.com/iamseki/online-orders/domain/order.go:29.28,31.3 1 1
+github.com/iamseki/online-orders/domain/order.go:33.2,33.28 1 1
+github.com/iamseki/online-orders/domain/order.go:34.23,35.41 1 1
+github.com/iamseki/online-orders/domain/order.go:36.16,37.42 1 1
+github.com/iamseki/online-orders/domain/payment.go:16.40,17.11 1 0
+github.com/iamseki/online-orders/domain/payment.go:18.14,19.18 1 0
+github.com/iamseki/online-orders/domain/payment.go:21.2,21.18 1 0
+github.com/iamseki/online-orders/domain/payment.go:24.57,26.2 1 1
+github.com/iamseki/online-orders/domain/product.go:15.42,16.11 1 0
+github.com/iamseki/online-orders/domain/product.go:17.23,18.28 1 0
+github.com/iamseki/online-orders/domain/product.go:19.16,20.20 1 0
+github.com/iamseki/online-orders/domain/product.go:22.2,22.18 1 0
