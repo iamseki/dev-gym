@@ -5,10 +5,6 @@
   </a>
 </h2>
 
-<h1 align="center">
-  Devgym Challenge Implementations
-</h1>
-
 <p align="center">Implementations of devgym's technical challenges.</p>
 
 ## Folder structure
